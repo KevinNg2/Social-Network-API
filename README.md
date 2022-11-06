@@ -4,7 +4,7 @@
 An API for a social network web application that allows users to share their thoughts, react to friend's thoughts, and create a friend list. This application demo uses `Express.js` for routing, a `MongoDB` database, the `Mongoose` ODM, and `Moment.js` to format timestamps. The seed data is created using `Insomnia`.
 
 ## Link to the App
-* ['Social Network API - Github']()
+* ['Social Network API - Github'](https://github.com/KevinNg2/Social-Network-API)
 * ['Social Network API Video Walkthrough']()
 
 ## User Story
