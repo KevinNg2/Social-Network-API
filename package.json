@@ -11,9 +11,9 @@
   "author": "Kevin Ng",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KevinNg2/social-network-api/issues"
+    "url": "https://github.com/KevinNg2/Social-Network-API/issues"
   },
-  "homepage": "https://github.com/KevinNg2/social-network-api#readme",
+  "homepage": "https://github.com/KevinNg2/Social-Network-API#readme",
   "dependencies": {
     "express": "^4.18.2",
     "moment": "^2.29.4",
