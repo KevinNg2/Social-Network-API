@@ -21,7 +21,7 @@ SO THAT my website can handle large amounts of unstructured data
 ## Usage
 - To invoke the application, run `npm start` after `npm i`
 - When the server is started, the Mongoose models are synched to the MongoDB Database
-- Open MongoDB and connec to the MongoDB URI `mongodb://localhost:27017`. Naviage to `socialDB` under the list of databases to see `thoughts` and `users` data.
+- Open MongoDB and connec to the MongoDB URI `mongodb://localhost:27017`. Naviage to `social-network-api` under the list of databases to see `thoughts` and `users` data.
 - To create seed data and test the API routes, use Insomnia.
 
 ## Credits 
