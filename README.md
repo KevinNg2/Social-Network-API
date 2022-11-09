@@ -5,7 +5,7 @@ An API for a social network web application that allows users to share their tho
 
 ## Link to the App
 * ['Social Network API - Github'](https://github.com/KevinNg2/Social-Network-API)
-* ['Social Network API Video Walkthrough']()
+* ['Social Network API Video Walkthrough'](https://drive.google.com/file/d/1Vn3gmRRiLejg7q0yh9jnJzqwFHtXwtYg/view)
 
 ## User Story
 ```
